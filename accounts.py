@@ -3,7 +3,7 @@ import yaml
 
 class account:
 
-    def __init__(name):
+    def __init__(self, name):
         self.transactions = []
         self.accountName = name
     

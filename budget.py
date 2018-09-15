@@ -1,7 +1,9 @@
+import accounts
+
 from collections import OrderedDict
 
 class budget:
-    def __init__():
+    def __init__(self):
         self.budgetName = ''
         self.accounts = []
     
